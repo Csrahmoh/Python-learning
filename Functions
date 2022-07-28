@@ -1,0 +1,14 @@
+# Come up with a function that divides the first input by the second input:
+def divid(a,b):
+     c = a/b
+     
+     return(c)
+
+#Use the function con for the following question.
+
+def con(a, b):
+    return(a + b)
+    
+#Can the con function we defined before be used to add two integers or strings?
+ #yes
+ con(2,2)
